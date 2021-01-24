@@ -12,8 +12,9 @@ Users are able to:
 
 This project includes the following programming languages:
 1. React.js
-2. Node.js
-3. Express
-4. MongoDB -- using Mongoose to connect
-5. And dependencies you can find in the package.json files 
+2. Redux
+3. Node.js
+4. Express
+5. MongoDB -- using Mongoose to connect
+6. And dependencies you can find in the package.json files 
 
